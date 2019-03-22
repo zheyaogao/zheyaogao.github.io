@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      '“Why, my dear, you must know, Mrs. Long says that Netherfield is taken',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'I feel exquisite pleasure in dwelling on the recollections of childhood,',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'Nora. What do you mean by that? Who proposes to take your post away from',
   'example4':
-      'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.'
+      '“Only one thing more,” said Mr. Lorry, laying stress upon it as a'
 };
 
 function status(statusText) {
