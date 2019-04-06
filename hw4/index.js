@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      '“Why, my dear, you must know, Mrs. Long says that Netherfield is taken',
+      'to be severe and business-like, but which was somewhat disguised by a',
   'example2':
-      'I feel exquisite pleasure in dwelling on the recollections of childhood,',
+      'This method is also used in making the Kjeldahl trap (_a_, Fig. 13), the',
   'example3':
-      'Nora. What do you mean by that? Who proposes to take your post away from',
+      'The average speed in this case was 10.7 knots an hour.',
   'example4':
-      '“Only one thing more,” said Mr. Lorry, laying stress upon it as a'
+      'blood from the Spear-wound. This brotherhood of Knights of the Grail'
 };
 
 function status(statusText) {
