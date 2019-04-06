@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'to be severe and business-like, but which was somewhat disguised by a',
+      "his uncle's place and Rod's most ardent admirer, was aware of it; but with",
   'example2':
       'This method is also used in making the Kjeldahl trap (_a_, Fig. 13), the',
   'example3':
